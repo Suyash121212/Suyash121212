@@ -26,7 +26,7 @@ I design and build end-to-end web applications, turning ideas into scalable, sec
 
 A web-based tool that allows users to visually design and customize user interfaces without writing code. It provides drag-and-drop components, real-time preview, customizable styles, and export options, enabling developers and non-developers to quickly prototype responsive and interactive designs.
 
-[View Project](A web-based tool that allows users to visually design and customize user interfaces without writing code. It provides drag-and-drop components, real-time preview, customizable styles, and export options, enabling developers and non-developers to quickly prototype responsive and interactive designs.)
+[View Project](https://github.com/Suyash121212/ui_maker)
 
 ---
 
