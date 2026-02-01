@@ -94,11 +94,11 @@ $ cat mantra.txt
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suyash121212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&icon_color=12D8FA&text_color=C9D1D9" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=12D8FA&currStreakLabel=A9FEF7" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suyash121212&theme=tokyonight&hide_border=true&background=0D1117&ring=A9FEF7&fire=12D8FA&currStreakLabel=A9FEF7" alt="GitHub Streak" />
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=A9FEF7&line=12D8FA&point=A9FEF7&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash121212&bg_color=0D1117&color=A9FEF7&line=12D8FA&point=A9FEF7&area=true&hide_border=true" alt="Contribution Graph" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash121212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A9FEF7&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
